@@ -47,7 +47,7 @@
 		  </div>
 		</nav>
 	</header>
-	<!--header en d-->
+	<!--header end-->
 	<div="col-sm-12" style="background-color:yellow;">
 	<center><h2>List of Engineering Courses in India</h2></center>	
 	</div>
