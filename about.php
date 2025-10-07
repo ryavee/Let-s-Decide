@@ -10,7 +10,7 @@
               from college
               where college_id ='$col_id';";
         
-        $result=mysqli_query($link,$sql);
+        $result=mysqli_query($link,$sql); 
         
         while ($row =mysqli_fetch_array($result))
         {
